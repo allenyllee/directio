@@ -1,0 +1,7 @@
+TARGETNAME=directio
+TARGETTYPE=DRIVER
+
+SOURCES=directio.c \
+        directio.rc
+
+MSC_WARNING_LEVEL=/W4 /WX

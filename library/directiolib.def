@@ -1,0 +1,5 @@
+EXPORTS
+DirectIO_Init
+DirectIO_DeInit
+DirectIO_WritePort
+DirectIO_ReadPort

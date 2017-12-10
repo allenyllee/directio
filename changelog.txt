@@ -1,0 +1,9 @@
+2012-01-24: 0.2.1
+- cleanup in case of failure
+
+2012-01-15: 0.2
+- store the driver inside DirectIOLib, and extract it when needed
+  (driver is unchanged from v0.1)
+
+2011-06-23: 0.1
+- first public release
